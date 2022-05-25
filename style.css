@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png") no-repeat center;
+    background: url("Pics/pro.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
