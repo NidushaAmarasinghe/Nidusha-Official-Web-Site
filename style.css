@@ -569,7 +569,7 @@ footer span a:hover{
 .fa-telegram:hover{
     box-shadow: 0 0 8px 0 #19acb1;
 }
-.fa-twitter{
+.fa-youtube{
     background: rgb(58, 218, 240);
     color: rgb(234, 242, 243);
     border: rgb(67, 219, 230);
@@ -577,7 +577,7 @@ footer span a:hover{
     padding: 0.1em 0.1em;
     margin-left: 15px;
 }
-.fa-twitter:hover{
+.fa-youtube:hover{
     box-shadow: 0 0 8px 0 #0da1a7;
 }
 .fa-whatsapp {
